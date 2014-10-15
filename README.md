@@ -1,7 +1,8 @@
 Zayd-Waves.github.io
 ====================
 
-Repo for my github page.
+This is the repository and source code for my github page.
 
-My Github user page is over at:
-https://github.com/Zayd-Waves
+Credit to the theme goes to [https://github.com/IronSummitMedia](IronSummitMedia), and [Jerome Lachaud](Jerome Lachaud) for the Jekyll version, which this is forked off of.
+
+The license of this site is under Apache 2.0.

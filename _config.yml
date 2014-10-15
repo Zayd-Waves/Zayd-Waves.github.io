@@ -1,8 +1,29 @@
-highlighter: pygments
-url: "zayd-waves.github.io"
-name: "Zayd Waves"
-description: "Never stopping"
+# Site settings
+title: Zayd Bille
+email: zayd.tri@gmail.com
+description: "Hey there! I'm Zayd, a part-time Software Developer and part time adventurer."
 
-paginate: 10
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
 
+# Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, stack-overflow, bitbucket, facebook etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/SilverHeroK
+  - title: linkedin
+    url: https://www.linkedin.com/pub/zayd-bille/a1/869/66a
+  - title: google-plus
+    url: https://plus.google.com/110530537560074828207/posts?hl=en
+  - title: github
+    url: https://github.com/Zayd-Waves
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Ottawa, Ontario
+
+# Build settings
 markdown: kramdown
+permalink: pretty
