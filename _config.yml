@@ -1,0 +1,6 @@
+highlighter: pygments
+url: "zayd-waves.github.io"
+
+paginate: 10
+
+markdown: kramdown
