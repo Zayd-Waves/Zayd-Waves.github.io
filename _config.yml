@@ -1,5 +1,7 @@
 highlighter: pygments
 url: "zayd-waves.github.io"
+name: "Zayd Waves"
+description: "Never stopping"
 
 paginate: 10
 
