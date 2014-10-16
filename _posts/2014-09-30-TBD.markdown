@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: safe.png
+alt: image-alt
+project-date: September 2014
+client: N/A
+category: TBD
+description: Once I've decided what cool project I'll tackle next, I'll update this section!
+
+---
