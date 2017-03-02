@@ -8,10 +8,9 @@
                     <hr class="star-primary">
                 </div>
             </div>
-
-            <div class="row" style="text-align:center;float: none;display: inline-block;">
+            <div class="row">
                 {% for post in site.posts %}
-                    <div class="col-sm-2 portfolio-item">
+                    <div class="col-sm-4 portfolio-item">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
@@ -23,6 +22,5 @@
                     </div>
                 {% endfor %}
             </div>
-
         </div>
     </section>
