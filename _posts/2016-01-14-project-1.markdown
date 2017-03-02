@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2016-01-14
-img: cabin.png
+img: speech-bubble.png
 alt: image-alt
 project-date: February 2016
 category: Android Development
