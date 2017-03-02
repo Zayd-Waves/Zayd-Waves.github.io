@@ -20,7 +20,7 @@ $(function() {
             $.ajax({
                 url: "//formspree.io/kaidawning@gmail.com",
                 type: "POST",
-                dataType: 'json',
+                dataType: "json",
                 data: {
                     name: name,
                     phone: phone,
