@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2016-07-16
-img: Game_pad.png
+img: Game-pad.png
 alt: game-pad
 project-date: July 2016
 category: Android Development
