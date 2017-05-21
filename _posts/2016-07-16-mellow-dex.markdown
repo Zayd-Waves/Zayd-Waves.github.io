@@ -1,11 +1,11 @@
 ﻿---
 layout: default
-modal-id: 1
-date: 2016-01-14
-img: speech-bubble.png
-alt: text-message
-project-date: February 2016
+modal-id: 2
+date: 2016-07-16
+img: Gamepad.png
+alt: game-pad
+project-date: July 2016
 category: Android Development
-description: Spread is an Android application I developed that lets you anonymously send and receive positive messages to other users in your area. There are many other features that will help brighten up your day, and the days of others! <a href="https://play.google.com/store/apps/details?id=me.zaydbille.spread&hl=en">Give it a try here :)</a>
+description: <a href="https://github.com/Zayd-Waves/mellow-dex">Mellow Dex</a> is my attempt at creating a definitive Pokédex application for Android devices.
 
 ---
