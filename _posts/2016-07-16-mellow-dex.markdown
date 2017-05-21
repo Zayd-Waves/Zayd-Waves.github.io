@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 modal-id: 2
 date: 2016-07-16
