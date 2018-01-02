@@ -5,9 +5,9 @@ description: "I'm Zayd. A Software Developer from Ottawa Ontario. Join me in my 
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 80B3FF   #EB5B02 #18bc9c
-  secondary: FD6E8A   #692800 #2c3e50
-  secondary-dark: A2122F   #3E1800 #233140
+  primary: E9C893 #EB5B02 #18bc9c #80B3FF
+  secondary: 3CC473 #692800 #2c3e50 #FD6E8A
+  secondary-dark: 1E392A #3E1800 #233140 #A2122F
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
